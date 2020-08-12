@@ -1,7 +1,7 @@
 {
   "name": "polaris-suggest",
   "main": "./lib/polaris-suggest",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "An easy way to get suggestions in the Polaris Framework",
   "keywords": [],
   "activationCommands": {
