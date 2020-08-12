@@ -1,5 +1,6 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "polaris-suggest:toggle"
+    "ctrl-shift-space": "polaris-suggest:fetch",
+    "ctrl-alt-space": "polaris-suggest:createSeclogCall"
   }
 }

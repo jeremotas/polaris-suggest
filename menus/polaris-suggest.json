@@ -4,6 +4,10 @@
       {
         "label": "Polaris Suggest",
         "command": "polaris-suggest:fetch"
+      },
+      {
+        "label": "Polaris Create Seclog Call",
+        "command": "polaris-suggest:createSeclogCall"
       }
     ]
   }

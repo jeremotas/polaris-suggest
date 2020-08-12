@@ -5,7 +5,8 @@
   "description": "An easy way to get suggestions in the Polaris Framework",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "polaris-suggest:fetch"
+    "atom-workspace": "polaris-suggest:fetch",
+    "atom-workspace": "polaris-suggest:createSeclogCall"
   },
   "repository": "https://github.com/jeremotas/polaris-suggest",
   "license": "MIT",
