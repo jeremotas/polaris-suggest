@@ -1,4 +1,4 @@
-# polaris-suggest package
+# polaris-suggest atom package
 
 An easy way to get suggestions in the Polaris Framework
 
